@@ -1,4 +1,4 @@
-[4화] Adding Interactivity (상호작용 추가하기)
+# [4화] Adding Interactivity (상호작용 추가하기)
 
 ## 랜더링하고 커밋하기
 - step 1 . 촉발!!
@@ -317,8 +317,6 @@ export default function Form() {
 [문제1](https://codesandbox.io/s/little-fast-tvkygl?file=/App.js)
 [문제2](https://codesandbox.io/s/broken-dust-wslqtv?file=/App.js) 
 [문제3](https://codesandbox.io/s/hardcore-mahavira-47k3td?file=/App.js)
-
-
 
 ## 배열 state 업데이트
 - 배열연산은 배열을 직접 변이하는 메서드 보다는 기존배열 복사후 생성하는 메서드를 사용하자
